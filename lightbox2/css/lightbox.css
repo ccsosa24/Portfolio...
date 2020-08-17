@@ -53,6 +53,7 @@ html.lb-disable-scrolling {
   /* Background color behind image.
      This is visible during transitions. */
   background-color: white;
+  
 }
 
 .lb-outerContainer:after {
@@ -86,6 +87,7 @@ html.lb-disable-scrolling {
   height: 100%;
   width: 100%;
   z-index: 10;
+  
 }
 
 .lb-container > .nav {
